@@ -1,0 +1,10 @@
+name: padesign
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7
+  - matplotlib
+  - notebook
+  - numpy
+  - pandas
+  - scipy
