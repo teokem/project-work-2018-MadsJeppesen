@@ -12,7 +12,7 @@ To run the notebook you'll have to do the following.
 
 2. Clone this repository and install the enviroment.yml file with anaconda
 
-3. Activate the new enviroment
+3. Activate the new environment
 
 4. Run Jupyter Notebook
 
