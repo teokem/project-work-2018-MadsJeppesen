@@ -4,7 +4,7 @@ DOI coming soon!
 ## Part of the course called Reproducible and Interactive Data Analysis and Modelling using Jupyter Notebooks!
 
 
-Hello There!
+Hello there general _____!
 
 To run the notebook you'll have to do the following. 
 
