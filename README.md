@@ -2,8 +2,8 @@ DOI coming soon!
 
 # Notebook Project
 
-### Introduced as a part of the course called:
-### "Reproducible and Interactive Data Analysis and Modelling using Jupyter Notebooks!"
+
+## How to run the notebook
 
 
 Hello there!
