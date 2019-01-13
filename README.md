@@ -2,7 +2,7 @@ DOI coming soon!
 
 # Notebook Project
 
-This is a project carried out at the University of Lund for the course called "*Reproducible and Interactive Data Science using the Jupyter Notebook*". The notebook explains and elaborate upon on some of the data analysis carried out in my masters thesis. Read more in the notebook!
+This is a project carried out at the University of Lund for the course called "*Reproducible and Interactive Data Science using the Jupyter Notebook*". The notebook explains and elaborate upon some of the data analysis carried out in my masters thesis. Read more in the notebook!
 
 
 ## How to run the notebook
