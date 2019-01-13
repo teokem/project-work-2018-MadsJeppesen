@@ -12,7 +12,7 @@ Hello there!
 
 To run the notebook you'll have to do the following. 
 
-**1.** If you do not have anaconda, install [Anaconda](https://www.anaconda.com/). This will also install the Jupyter Notebook for you. Alternatively install Jupyter Notebook seperately.
+**1.** If you do not have anaconda, install [Anaconda](https://www.anaconda.com/). This will also install the Jupyter Notebook for you. Alternatively install [Jupyter Notebook](https://jupyter.org/install) seperately.
 
 **2.** Clone this repository with git:
 
