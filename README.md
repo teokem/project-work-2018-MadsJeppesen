@@ -1,4 +1,4 @@
-DOI coming soon!
+<a href="https://doi.org/10.5281/zenodo.2539106"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.2539106.svg" alt="DOI"></a> 
 
 # Notebook Project
 
