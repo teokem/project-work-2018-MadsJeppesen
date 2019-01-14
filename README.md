@@ -1,4 +1,4 @@
-DOI coming soon!
+<a href="https://doi.org/10.5281/zenodo.2539106"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.2539106.svg" alt="DOI"></a> 
 
 # Notebook Project
 
@@ -42,6 +42,6 @@ If you have windows exclude the "source"
 
 **6.** Run Jupyter Notebook by writing the following in the terminal
 
-``jupyer notebook``
+``jupyter notebook``
 
 Send a message to mads.jeppesen@biochemistry.lu.se for any questions. 
