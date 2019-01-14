@@ -42,6 +42,6 @@ If you have windows exclude the "source"
 
 **6.** Run Jupyter Notebook by writing the following in the terminal
 
-``jupyer notebook``
+``jupyter notebook``
 
 Send a message to mads.jeppesen@biochemistry.lu.se for any questions. 
